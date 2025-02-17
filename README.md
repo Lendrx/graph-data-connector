@@ -1,6 +1,6 @@
 # **Microsoft Graph - Data Collector**  
 
-Dieses **Python-Skript** nutzt die **Microsoft Graph API**, um wichtige Unternehmensdaten aus **Microsoft Entra ID (Azure AD)** abzurufen, darunter:  
+Entspannt die Unternehmensdaten aus **Microsoft Entra ID (Azure AD)** abzurufen, darunter:  
 
 ✅ **Mitarbeiterdaten** – Name, E-Mail, Position  
 ✅ **Geräteinformationen** – Mit Azure AD verbundene Geräte  
