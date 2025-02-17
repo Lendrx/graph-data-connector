@@ -1,7 +1,3 @@
-Hier ist die überarbeitete **README.md** mit zusätzlichen Details zu den benötigten API-Berechtigungen und einer klareren Struktur:  
-
----
-
 # **Microsoft Graph - Data Collector**  
 
 Dieses **Python-Skript** nutzt die **Microsoft Graph API**, um wichtige Unternehmensdaten aus **Microsoft Entra ID (Azure AD)** abzurufen, darunter:  
