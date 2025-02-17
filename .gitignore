@@ -1,0 +1,14 @@
+# Python-spezifische Dateien
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtuelle Umgebung
+venv/
+.vscode/
+.env
+
+# Log- und temporäre Dateien
+*.log
+*.csv
+*.out
