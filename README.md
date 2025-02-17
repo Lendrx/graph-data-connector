@@ -1,6 +1,6 @@
 # **Microsoft Graph - Data Collector**  
 
-Entspannt die Unternehmensdaten aus **Microsoft Entra ID (Azure AD)** abzurufen, darunter:  
+Entspannt diverse Daten aus **Microsoft Entra ID (Azure AD)** abzurufen, darunter:  
 
 ✅ **Mitarbeiterdaten** – Name, E-Mail, Position  
 ✅ **Geräteinformationen** – Mit Azure AD verbundene Geräte  
